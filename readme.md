@@ -1,3 +1,5 @@
+######Thx Brad Traversy
+
 ![Repository Banner](https://res.cloudinary.com/techlead/image/upload/v1589632171/Github/mtqzazsxetwufeb08h4j.png)
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
 
